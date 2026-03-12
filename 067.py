@@ -1,5 +1,3 @@
-
-
 while True:
     n = int(input('Quer ver a tabuada de qual valor? '))
     if n < 0:
